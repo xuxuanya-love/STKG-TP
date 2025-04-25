@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 # 文件夹路径
-folder_path = r'E:\\zzx\\dataset\\THU-EP\\Clisa_data'
+folder_path = r'User:\lemon\\dataset\\THU-EP\\Clisa_data'
 
 # 找到所有.pkl文件
 pkl_files = glob.glob(f"{folder_path}\\*.pkl")

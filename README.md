@@ -1,2 +1,2 @@
 # STKG-TP
-STKG-TP：基于睡眠脑电信号的时空知识图谱与轨迹语义交叉融合识别抑郁模型
+STKG-TP: Depression Recognition via Spatial-Temporal Knowledge Graph and Trajectory-Semantic Cross-Fusion with EEG Signals​

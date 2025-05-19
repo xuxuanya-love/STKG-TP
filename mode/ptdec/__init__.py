@@ -1,1 +1,1 @@
-
+from .dec import DEC

@@ -23,7 +23,7 @@ loadData -- Load input data for the model (EEG features and brain region node em
 
 CNN -- Perform spatiotemporal convolution to extract features
 
-ZGCN -- Perform spatiotemporal convolution
+GCN -- Perform spatiotemporal convolution
 
 GRU -- Perform sequence operations on spatiotemporal convolution features
 
@@ -41,3 +41,4 @@ Train -- train STKG.py # STKG Module
 Train -- train TP.py # TP Module
 
 Fusion -- train Cross_Fusion.PY # Cross_Fusion model
+
